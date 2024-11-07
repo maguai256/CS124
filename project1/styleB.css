@@ -1,0 +1,44 @@
+.ABCDEcss {
+    width: 100px;
+    height: 150px;
+
+    margin: 0px;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 10px;
+    border-right: 0px;
+    border-style: dotted;
+    border-color: blueviolet;
+    padding-left: 10px;
+
+    font-size: 40px;
+}
+
+.Fcss {
+
+    width: 100px;
+    height: 150px;
+
+    margin-left: auto;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 10px;
+    border-right: 0px;
+    border-style: dotted;
+    border-color: blueviolet;
+    padding-left: 10px;
+
+    font-size: 40px;
+
+    position: absolute;
+    top: 550px;
+    left: 1400px;
+
+}
+
+.containerABCDE {
+    display: flex;
+}
+.containerF {
+    display: flex;
+}
